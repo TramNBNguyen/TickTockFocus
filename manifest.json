@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Pomodoro Timer",
+  "name": "TickTockFocus",
   "version": "1.0",
   "description": "A simple Pomodoro timer to boost productivity",
   "permissions": ["storage", "notifications", "alarms"],
